@@ -37,7 +37,7 @@
     "eslint-nibble": "^5.1.0",
     "eslint-plugin-prettier": "^3.4.0",
     "husky": "^7.0.1",
-    "lint-staged": "^10.2.11",
+    "lint-staged": "^13.2.1",
     "prettier": "^1.19.1",
     "prettylint": "^1.0.0"
   },
